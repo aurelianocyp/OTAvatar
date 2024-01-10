@@ -12,7 +12,7 @@ April.4: The preprocessed dataset is released, please see the `Data preparation`
 ```
 git clone https://github.com/aurelianocyp/OTAvatar
 cd OTAvatar
-conda env create -f environment.yml
+conda env create -f environment.yaml
 conda activate otavatar
 ```
 
