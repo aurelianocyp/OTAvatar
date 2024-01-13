@@ -52,7 +52,7 @@ Or simply run,
 ```
 sh scripts/inference.sh
 ```
-
+run的时候发现必须要有数据集才行，数据集好大，放弃了
 ### Start Training
 Run,
 ```
